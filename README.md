@@ -109,6 +109,16 @@ Dataset yang digunakan dalam proyek ini merupakan data diabetes. Dataset ini dap
 - Terdapat 4 kolom numerik dengan tipe data int64, yaitu:  id, revenue, runtime, dan budget. 
 - Terdapat 1 kolom dengan tipe bool, yaitu: adult.
 
+**Melakukan analisis statistik deskriptif**
+
+![image](https://github.com/user-attachments/assets/3dde2c78-cb15-46e3-add2-6133053f8f8f)
+
+- **vote_average:** Rata-rata nilai voting sangat rendah (mean = 1.76 dari maksimal 10), dan median adalah 0. Ini menunjukkan bahwa banyak film yang belum mendapatkan voting sama sekali.
+- **vote_count:** Sebagian besar film belum mendapat voting sama sekali (median = 0), dan hanya sedikit yang mendapat banyak voting (lihat max = 34.495).
+- **revenue & budget:** Banyak nilai 0, menandakan banyak film yang tidak memiliki data pendapatan atau anggaran. Namun, ada juga nilai ekstrem dengan revenue hingga 5 miliar dan budget hingga 1 miliar.
+- **runtime:** Ada nilai negatif, yang tidak logis untuk durasi film (minimum = -28). Ini kemungkinan adalah kesalahan data (data anomali).
+- **popularity:** Nilainya sangat kecil rata-rata (mean = 1.16), tetapi dengan rentang yang sangat besar (maksimal = 2.994).
+
 
 
 
