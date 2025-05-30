@@ -51,7 +51,7 @@ Dataset yang digunakan dalam proyek ini merupakan dataset tentang anime. Dataset
 
 ## Exploratory Data Analysis
 
-*Cek Variabel*
+*Mengecek Variabel*
 
 ![image](https://github.com/user-attachments/assets/7c763fb1-7ca7-4c9b-a228-f90bcc105929)
 
