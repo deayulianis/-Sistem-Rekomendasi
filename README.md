@@ -113,6 +113,15 @@ Dataset yang digunakan dalam proyek ini merupakan dataset tentang anime. Dataset
 - Terdapat 25 data tanpa tipe media (TV, Movie, OVA, dll) → kemungkinan data tidak tersedia atau belum diketahui.
 - Terdapat 230 data tanpa nilai rating → bisa jadi anime tersebut belum cukup banyak ditonton atau belum dinilai oleh pengguna.
 
+*Mengecek Duplikat*
+
+![image](https://github.com/user-attachments/assets/8c244a7c-ba69-424d-8a59-61bb20536099)
+
+- Tidak ada data yang duplikat
+
+
+
+
 
 
 
